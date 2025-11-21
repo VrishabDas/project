@@ -64,6 +64,8 @@ Step 2: Run it
 ------------------
 Enter your choice [1-4]:
 
+![SCREENSHOT] (assets/ss.png)
+
 📘 Code Summary
 
 The script performs:
