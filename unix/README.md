@@ -82,6 +82,8 @@ This makes it a simple but effective simulation of real-world user management lo
 Enter username to add: Alice
 User 'Alice' added.
 
+![SCREENSHOT] (assets/ss.png)
+
 Current users:
  1. Alice
 
